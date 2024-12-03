@@ -4,7 +4,7 @@ import morgan from "morgan";
 import { userRouter } from "./routes/user.routes.js";
 
 const app = express();
-const DB_URL = "mongodb+srv://facuquaglia:jy3Pc9LraPrrQBYT@cluster0.ojlum.mongodb.net/<dbname>?retryWrites=true&w=majority"; 
+const DB_URL = "mongodb+srv://facuquaglia:40244090Nicolas@cluster0.ojlum.mongodb.net/yourDatabaseName?retryWrites=true&w=majority"; 
 const PORT = 5000;
 
 // Configuración de Express
